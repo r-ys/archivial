@@ -1,0 +1,1 @@
+**Varah** is the appointed Captain of the [[Sacred Order|Absolution Branch]].

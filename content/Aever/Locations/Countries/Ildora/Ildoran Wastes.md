@@ -1,0 +1,1 @@
+The Ildoran Wastes is the region of wilderness that covers almost 80% of Ildora.
