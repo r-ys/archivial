@@ -1,6 +1,4 @@
 ---
-dg-publish: true
-dg-home: true
-dg-pinned: true
+draft: false
 ---
 Welcome to Rys's Worldbuilding Archives for various TTRPG Campaigns.
