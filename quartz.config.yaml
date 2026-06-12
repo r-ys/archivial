@@ -46,11 +46,11 @@ plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
     options:
-      defaultDateType: modified
+      defaultDateType: created
       priority:
         - frontmatter
-        - git
         - filesystem
+        - git
     order: 10
   - source: github:quartz-community/syntax-highlighting
     enabled: true

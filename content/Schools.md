@@ -1,3 +1,6 @@
+---
+draft: true
+---
 For getting a job, it's better if you finish a school related to that. It gives you a better chance if you also take minor courses that connect to that job. An example is a patrol guard/city guard. You would need to finish Combat School and some minor courses in the School of Law for the highest chance of getting hired. Another example is if you want to be a bard. You would finish either School of Arts or Magic (whichever you want to focus on), and take minor courses in the other school respectively. Some like to be well-rounded, and choose the one they like most as their major school, and pay for lots of minor courses. This only really works if you're rich enough to afford it.
 
 
