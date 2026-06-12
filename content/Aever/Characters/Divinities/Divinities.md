@@ -1,7 +1,7 @@
 ---
 tags:
   - mythos
-dg-publish: true
+date: 2026-03-23 00:00
 ---
 Divinities are the essential aspects that give the world life. They are gods in the technical sense, but they work a bit differently as they don't need the belief or support of humans to continue existing. 
 

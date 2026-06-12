@@ -1,7 +1,7 @@
 ---
 tags:
   - character creation
-dg-publish: true
+date: 2026-06-09 18:42
 ---
 The following are the available classes in Aever.
 

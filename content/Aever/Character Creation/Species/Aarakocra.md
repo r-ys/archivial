@@ -2,6 +2,7 @@
 tags:
   - character creation
   - species
+date: 2026-06-09 18:42
 ---
 ![[Aarakocra.webp|right wmed]]
 

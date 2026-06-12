@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+draft: true
 tags:
   - wip
   - campaign plan

@@ -2,7 +2,7 @@
 tags:
   - character creation
   - species
-dg-publish: true
+date: 2026-06-09 18:42
 ---
 > Centaurs gallop throughout the multiverse and trace their origins to many different realms. The centaurs presented here hail from the Feywild and mystically resonate with the natural world. From the waist up, they resemble elves, displaying all the elf varieties of skin tone. From the waist down, they have the bodies of horses.
 ## D&D 5e

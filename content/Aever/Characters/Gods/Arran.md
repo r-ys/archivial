@@ -2,7 +2,7 @@
 tags:
   - mythos
   - wip
-dg-publish: false
+date: 2026-05-17 23:13
 ---
 person (God)
 

@@ -3,6 +3,6 @@ tags:
   - mythos
   - divinity
   - wip
-dg-publish: true
+date: 2026-06-10 17:33
 ---
 wip

@@ -1,7 +1,7 @@
 ---
 tags:
   - session
-dg-publish: true
+date: 2026-03-23 02:20
 ---
 Session 2 of the Veneris Campaign held in the Cunt Cult Campaign VC.
 Complete attendees 5/5.

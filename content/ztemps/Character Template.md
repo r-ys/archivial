@@ -2,7 +2,6 @@
 tags:
   - npc
   - wip
-dg-publish: false
 ---
 > [!infobox|right wikipedia]
 > ## <%tp.file.title%>

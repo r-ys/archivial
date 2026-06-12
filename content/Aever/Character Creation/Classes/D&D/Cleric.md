@@ -2,7 +2,7 @@
 tags:
   - character creation
   - class
-dg-publish: true
+date: 2026-06-09 18:42
 ---
 ## D&D5e
 **_Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.  

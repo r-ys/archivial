@@ -1,3 +1,8 @@
+---
+
+date: 2026-06-04 02:34
+---
+
 Sometimes the DM or a rule gives you Heroic Inspiration. If you have Heroic Inspiration, you can expend it to reroll any die immediately after rolling it, and you must use the new roll.
 
 **Only One at a Time**. You can never have more than one instance of Heroic Inspiration. If something gives you Heroic Inspiration and you already have it, you can give it to a player character in your group who lacks it.

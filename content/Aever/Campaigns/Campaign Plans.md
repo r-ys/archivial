@@ -1,7 +1,8 @@
 ---
 tags:
   - meta
-dg-publish: false
+draft: true
+date: 2026-06-09 18:50
 ---
 list of campaigns set in Aever that I want to run someday.
 

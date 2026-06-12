@@ -1,3 +1,8 @@
+---
+
+date: 2026-06-04 01:13
+---
+
 While you have the **Charmed** condition, you experience the following effects.
 
 **Can't Harm the Charmer**. You can't attack the charmer or target the charmer with damaging abilities or magical effects.

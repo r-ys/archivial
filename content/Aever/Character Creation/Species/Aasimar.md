@@ -2,7 +2,7 @@
 tags:
   - character creation
   - species
-dg-publish: true
+date: 2026-06-09 18:42
 ---
 ![[Aasimar.webp|banner p+tc]]
 

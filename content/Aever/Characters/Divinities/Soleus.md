@@ -3,7 +3,7 @@ tags:
   - mythos
   - divinity
   - wip
-dg-publish: true
+date: 2026-03-23 00:00
 ---
 
 ![[Theme-Soleus.jpg|right wtiny]]

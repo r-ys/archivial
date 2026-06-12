@@ -1,7 +1,7 @@
 ---
 tags:
   - campaign
-dg-publish: true
+date: 2026-03-23 02:16
 ---
 Campaign in Veneris of witch-hunters announced on May 24, 2025.
 

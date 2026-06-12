@@ -1,7 +1,7 @@
 ---
 tags:
   - character creation
-dg-publish: true
+date: 2026-05-26 17:16
 ---
 This page contains all the species that populate the world of Aever. Each species considers stats/mechanics for D&D 5e, D&D 5.5e, and their Daggerheart equivalent.
 

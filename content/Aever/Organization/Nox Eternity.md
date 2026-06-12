@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+date: 2026-03-24 05:41
 ---
 **Nox Eternity**, or Eternal Night, is a long standing cult that worships Lune. Their beliefs somehow withstand time and history, with the cult having records of it disappearing or being destroyed, only to resurface some years later.
 

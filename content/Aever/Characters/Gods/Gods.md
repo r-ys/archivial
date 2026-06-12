@@ -2,5 +2,5 @@
 tags:
   - mythos
   - wip
-dg-publish: true
+date: 2026-06-09 18:56
 ---
