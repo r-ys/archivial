@@ -2,7 +2,6 @@
 tags:
   - character creation
   - species
-dg-publish: true
 ---
 ![[Aarakocra.webp|right wmed]]
 
