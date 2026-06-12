@@ -66,7 +66,7 @@ export default {
       lastFewNotes: ({ count }) => `Last ${count} notes`,
     },
     error: {
-      title: "Not Found",
+      title: "uh oh !",
       notFound: "Either this page is private or doesn't exist.",
       home: "Return to Homepage",
     },
