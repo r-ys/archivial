@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: "(˶ᵔ ᵕ ᵔ˶)"
+  pageTitle: (˶ᵔ ᵕ ᵔ˶)
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -155,6 +155,9 @@ plugins:
       showFolderCount: false
       showSubfolders: false
     enabled: true
+    options:
+      showFolderCount: "false"
+      showSubfolders: "false"
   - source: github:quartz-community/tag-page
     enabled: true
   - source: github:quartz-community/explorer
@@ -164,6 +167,7 @@ plugins:
     layout:
       position: left
       priority: 50
+    options: {}
   - source: github:quartz-community/graph
     enabled: true
     options:
@@ -177,7 +181,8 @@ plugins:
         linkDistance: 30
         fontSize: 0.6
         opacityScale: 1
-        removeTags: [wip]
+        removeTags:
+          - wip
         showTags: false
         enableRadial: false
       globalGraph:
@@ -190,7 +195,8 @@ plugins:
         linkDistance: 30
         fontSize: 0.6
         opacityScale: 1
-        removeTags: [wip]
+        removeTags:
+          - wip
         showTags: true
         focusOnHover: true
         enableRadial: true
@@ -312,6 +318,18 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: github:quartz-community/obsidian-plugin-ttrpg-tools-maps
+    enabled: true
+    order: 50
+    options:
+      blockLanguage: zoommap
+      inlineBlockHeaderId: ZOOMMAP-DATA
+      maxInlineDataBytes: 0
+      defaultIconKey: pin-red
+  - source: github:quartz-community/obsidian-plugin-leaflet
+    enabled: true
+    order: 50
+    options: {}
 layout:
   groups:
     toolbar:
