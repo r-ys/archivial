@@ -318,6 +318,10 @@ plugins:
       inlineBlockHeaderId: ZOOMMAP-DATA
       maxInlineDataBytes: 0
       defaultIconKey: pin-red
+  - source: github:quartz-community/obsidian-plugin-leaflet
+    enabled: true
+    order: 50
+    options: {}
 layout:
   groups:
     toolbar:
