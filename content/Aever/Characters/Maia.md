@@ -4,7 +4,7 @@ tags:
   - npc
 date: 2026-03-24 05:38
 ---
-![[Theme-Maia.webp|right wtiny]]
+![[Theme-Maia.webp|right wsmall]]
 
 **Maia** is a witch.
 

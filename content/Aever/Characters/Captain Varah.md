@@ -6,7 +6,7 @@ date: 2026-06-10 17:33
 ---
 > [!infobox|right wikipedia]
 > ## Captain Varah
-> ![[Theme-Captain Varah.webp|cover hsmall]]
+> ![[Theme-Captain Varah.webp|cover wsmall]]
 > ###
 > | Detail  |   test  |
 > | ------- | --- |
