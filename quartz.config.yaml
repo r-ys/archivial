@@ -151,11 +151,16 @@ plugins:
   - source: github:quartz-community/content-page
     enabled: true
   - source: github:quartz-community/folder-page
+    options:
+      showFolderCount: false
+      showSubfolders: false
     enabled: true
   - source: github:quartz-community/tag-page
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    options:
+      title: library
     layout:
       position: left
       priority: 50
