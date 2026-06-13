@@ -1,16 +1,21 @@
 ---
+publish: true
+created: 2026-06-08 09:22
+modified: 2026-06-12T16:38:02.633+08:00
 tags:
   - character creation
   - species
-date: 2026-06-08 09:22
 ---
+
 > Born of dragons, as their name proclaims, the dragonborn walk proudly through a world that greets them with fearful incomprehension. Shaped by draconic gods or the dragons themselves, dragonborn originally hatched from dragon eggs as a unique race, combining the best attributes of dragons and humanoids. Some dragonborn are faithful servants to true dragons, others form the ranks of soldiers in great wars, and still others find themselves adrift, with no clear calling in life.
 
-## D&D 5e
+## D\&D 5e
+
 Your draconic heritage manifests in a variety of traits  you share with other dragonborn.
 
 #### Chromatic
-*Dragonborn with chromatic ancestry claim the raw elemental power of chromatic dragons. The vibrant colors of black, blue, green, red, and white dragons gleam in those dragonborn's scaled skin and in the deadly energy of their breath weapons. Theirs is the raw elemental fury of the volcano, of biting arctic winds, and of raging lightning storms, as well as the subtle whisper of swamp and forest, toxic and corrosive.*
+
+_Dragonborn with chromatic ancestry claim the raw elemental power of chromatic dragons. The vibrant colors of black, blue, green, red, and white dragons gleam in those dragonborn's scaled skin and in the deadly energy of their breath weapons. Theirs is the raw elemental fury of the volcano, of biting arctic winds, and of raging lightning storms, as well as the subtle whisper of swamp and forest, toxic and corrosive._
 
 **Ability Score Increase**. Increase one ability score by 2 and increase a different one by 1, or you increase three different scores by 1.
 
@@ -39,7 +44,8 @@ Your draconic heritage manifests in a variety of traits  you share with other dr
 **Languages**. You can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character.
 
 #### Metallic
-*Dragonborn with metallic ancestry lay claim to the tenacity of metallic dragons — brass, bronze, copper, gold, and silver — whose hues glint in their scales. Theirs is the fire of hearth and forge, the cold of high mountain air, the spark of inspiration, and the scouring touch of acid that purifies.*
+
+_Dragonborn with metallic ancestry lay claim to the tenacity of metallic dragons — brass, bronze, copper, gold, and silver — whose hues glint in their scales. Theirs is the fire of hearth and forge, the cold of high mountain air, the spark of inspiration, and the scouring touch of acid that purifies._
 
 **Ability Score Increase**. Increase one ability score by 2 and increase a different one by 1, or you increase three different scores by 1.
 
@@ -64,14 +70,15 @@ Your draconic heritage manifests in a variety of traits  you share with other dr
 **Draconic Resistance**. You have resistance to the damage type associated with your Metallic Ancestry.
 
 **Metallic Breath Weapon**. At 5th level, you gain a second breath weapon. When you take the Attack action on your turn, you can replace one of your attacks with an exhalation in a 15-foot cone. The save DC for this breath is 8 + your Constitution modifier + your proficiency bonus. Whenever you use this trait, choose one:
-	- **Enervating Breath**. Each creature in the cone must succeed on a Constitution saving throw or become incapacitated until the start of your next turn.
-	- **Repulsion Breath**. Each creature in the cone must succeed on a Strength saving throw or be pushed 20 feet away from you and be knocked prone.
-	Once you use your Metallic Breath Weapon, you can’t do so again until you finish a long rest.
+\- **Enervating Breath**. Each creature in the cone must succeed on a Constitution saving throw or become incapacitated until the start of your next turn.
+\- **Repulsion Breath**. Each creature in the cone must succeed on a Strength saving throw or be pushed 20 feet away from you and be knocked prone.
+Once you use your Metallic Breath Weapon, you can’t do so again until you finish a long rest.
 
 **Languages**. You can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character.
 
 #### Gem
-*Gem dragonborn partake of the heritage of gem dragons, who claim to be heirs of Sardior, the Ruby Dragon. The colors and mysterious powers of gem dragons — amethyst, crystal, emerald, sapphire, and topaz — gleam in these dragonborn’s scaled skin and course through their veins. Theirs are the wonders of the mind, the force of will, the brilliant light of insight, and the resounding echo of discovery — but also the desiccation of despair.*
+
+_Gem dragonborn partake of the heritage of gem dragons, who claim to be heirs of Sardior, the Ruby Dragon. The colors and mysterious powers of gem dragons — amethyst, crystal, emerald, sapphire, and topaz — gleam in these dragonborn’s scaled skin and course through their veins. Theirs are the wonders of the mind, the force of will, the brilliant light of insight, and the resounding echo of discovery — but also the desiccation of despair._
 
 **Ability Score Increase**. Increase one ability score by 2 and increase a different one by 1, or you increase three different scores by 1.
 
@@ -101,9 +108,10 @@ Gem Ancestry. You trace your ancestry to a Gem dragon, granting you a special ma
 
 **Languages**. You can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character.
 
-## D&D 5.5e
-**Creature Type:** Humanoid  
-**Size:** Medium (about 5-7 feet tall)  
+## D\&D 5.5e
+
+**Creature Type:** Humanoid\
+**Size:** Medium (about 5-7 feet tall)\
 **Speed:** 30 feet
 
 As a Dragonborn, you have these special traits.
@@ -136,6 +144,7 @@ You can use this Breath Weapon a number of times equal to your Proficiency Bonus
 **Draconic Flight.** When you reach character level 5, you can channel draconic magic to give yourself temporary flight. As a Bonus Action, you sprout spectral wings on your back that last for 10 minutes or until you retract the wings (no action required) or have the Incapacitated condition. During that time, you have a Fly Speed equal to your Speed. Your wings appear to be made of the same energy as your Breath Weapon. Once you use this trait, you can't use it again until you finish a Long Rest.
 
 ## Daggerheart
-![[Ancestry - Drakona.webp]]
+
+![[_imgs/Species/Daggerheart Ancestry/Ancestry - Drakona.webp]]
 
 #species

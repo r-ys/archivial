@@ -1,12 +1,16 @@
 ---
+publish: true
+created: 2026-06-09 18:42
+modified: 2026-06-12T16:38:26.948+08:00
 tags:
   - character creation
   - species
-date: 2026-06-09 18:42
 ---
+
 > The comforts of home are the goals of most halflings' lives: a place to settle in peace and quiet, far from marauding monsters and clashing armies. Others form nomadic bands that travel constantly, lured by the open road and the wide horizon to discover the wonders of new lands and peoples. Halflings work readily with others, and they are loyal to their friends, whether halfling or otherwise. They can display remarkable ferocity when their friends, families, or communities are threatened.
 
-## D&D 5e
+## D\&D 5e
+
 Your halfling character has a number of traits in  common with all other halflings.
 
 **Ability Score Increase.** Your Dexterity score increases by 2.
@@ -27,17 +31,18 @@ Your halfling character has a number of traits in  common with all other halflin
 
 > [!example]- Lightfoot
 > **Ability Score Increase.** Your Charisma score increases by 1.
-> 
+>
 > **Naturally Stealthy.** You can attempt to hide even when you are only obscured by a creature that is at least one size larger than you.
 
 > [!example]- Stout
 > **Ability Score Increase.** Your Constitution score increases by 1.
-> 
+>
 > **Stout Resilience.** You have advantage on saving throws against poison, and you have resistance to poison damage.
 
-## D&D 5.5e
-**Creature Type:** Humanoid  
-**Size:** Small (about 2-3 feet tall)  
+## D\&D 5.5e
+
+**Creature Type:** Humanoid\
+**Size:** Small (about 2-3 feet tall)\
 **Speed:** 30 feet
 
 As a Halfling, you have these special traits.
@@ -51,6 +56,7 @@ As a Halfling, you have these special traits.
 **Naturally Stealthy.** You can take the Hide action even when you are obscured only by a creature that is at least one size larger than you.
 
 ## Daggerheart
-![[Ancestry - Halfling.webp]]
+
+![[_imgs/Species/Daggerheart Ancestry/Ancestry - Halfling.webp]]
 
 #species

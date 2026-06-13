@@ -1,10 +1,15 @@
 ---
+publish: true
 draft: true
+created: 2026-06-09T21:30:12.260+08:00
+modified: 2026-06-12T16:36:11.300+08:00
 tags:
   - wip
   - campaign plan
 ---
+
 ## Premise
+
 The Absolution Branch of the Sacred Order has just been created, pulling some soldiers off of their respective branches and into a witch hunter team. This is the party.
 
 **The Crime:**
@@ -25,6 +30,7 @@ In the port area of Veneris, there's been a number of murders that have happened
 The thing all these guys have in common is that they're a part of a hidden trafficking organization. This trafficking org and the mercenary group had a deal that the former did not follow up on. So, they sent Spica to Veneris, the traffickers' main hub, to send a message to them and destroy what they have.
 
 ## Spica
+
 [[Spica]] is an 83 year old **elf witch**. She is allied with Baron's old mercenary group. She has made her home in one of the abandoned ships docked at the Veneris port, where she came in as a stowaway. She's a new member of Baron's old mercenary group, very new. This mission is actually one of her initiations.
 
 The house that was burned down was the target. It is owned by the secretary of the traffickers and contains important documents. Spica burned it down to destroy these documents, but she did not account for the children that were left inside. Those murders were collateral. It was her first act in the job, and made a horrifying mistake. She won't repeat that ever again.
