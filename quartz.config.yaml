@@ -155,11 +155,8 @@ plugins:
       showFolderCount: false
       showSubfolders: false
     enabled: true
-    options:
-      showFolderCount: "false"
-      showSubfolders: "false"
   - source: github:quartz-community/tag-page
-    enabled: true
+    enabled: false
   - source: github:quartz-community/explorer
     enabled: true
     options:
@@ -312,7 +309,7 @@ plugins:
       theme: its-theme
       variation: ttrpg-dnd
   - source: github:quartz-community/obsidian-plugin-excalidraw
-    enabled: true
+    enabled: false
     options:
       enableInteraction: true
       darkMode: auto
