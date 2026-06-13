@@ -1,6 +1,7 @@
 ---
 tags:
-  - player character
+  - player_character
+player: Uki
 date: 2026-03-24 05:37
 ---
 **Regis** is a paladin played by @tanukikyunn in the Veneris Campaign.

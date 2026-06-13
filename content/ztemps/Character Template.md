@@ -2,6 +2,7 @@
 tags:
   - npc
   - wip
+date: <%tp.file.creation_date()%>
 ---
 > [!infobox|right wikipedia]
 > ## <%tp.file.title%>

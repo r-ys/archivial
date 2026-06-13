@@ -1,3 +1,8 @@
+---
+tags:
+  - species
+date: <%tp.file.creation_date()%>
+---
 > Paragraph description
 
 ## D&D 5e
