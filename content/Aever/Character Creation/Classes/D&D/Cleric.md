@@ -1,12 +1,16 @@
 ---
+publish: true
+created: 2026-06-09 18:42
+modified: 2026-06-12T16:37:08.765+08:00
 tags:
   - character creation
   - class
-date: 2026-06-09 18:42
 ---
-## D&D5e
-**_Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.  
-_**
+
+## D\&D5e
+
+**\_Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.\
+\_**
 
 _You must have a Wisdom score of 13 or higher in order to multiclass in or out of this class._
 
@@ -40,16 +44,16 @@ As a cleric, you gain the following class features.
 
 ##### Hit Points
 
-**Hit Dice:** 1d8 per cleric level  
-**Hit Points at 1st Level:** 8 + your Constitution modifier  
+**Hit Dice:** 1d8 per cleric level\
+**Hit Points at 1st Level:** 8 + your Constitution modifier\
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per cleric level after 1st
 
 ##### Proficiencies
 
-**Armor:** Light armor, medium armor, shields  
-**Weapons:** All simple weapons  
-**Tools:** None  
-**Saving Throws:** Wisdom, Charisma  
+**Armor:** Light armor, medium armor, shields\
+**Weapons:** All simple weapons\
+**Tools:** None\
+**Saving Throws:** Wisdom, Charisma\
 **Skills:** Choose two from History, Insight, Medicine, Persuasion, and Religion
 
 ##### Equipment
@@ -169,7 +173,8 @@ Imploring your deity's aid requires you to use your action. Describe the assista
 
 At 20th level, your call for intervention succeeds automatically, no roll required.
 
-## D&D 5.5e
+## D\&D 5.5e
+
 Clerics draw power from the realms of the gods and harness it to work miracles. Blessed by a deity, a pantheon, or another immortal entity, a Cleric can reach out to the divine magic of the Outer Planes—where gods dwell—and channel it to bolster people and battle foes.
 
 Because their power is a divine gift, Clerics typically associate themselves with temples dedicated to the deity or other immortal force that unlocked their magic. Harnessing divine magic doesn’t rely on specific training, yet Clerics might learn prayers and rites that help them draw on power from the Outer Planes.

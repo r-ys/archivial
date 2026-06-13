@@ -1,14 +1,18 @@
 ---
+publish: true
+created: 2026-06-09 18:42
+modified: 2026-06-12T16:37:39.011+08:00
 tags:
   - character creation
   - species
-date: 2026-06-09 18:42
 ---
-![[Aarakocra.webp|right wmed]]
+
+![[_imgs/Species/Individuals/Aarakocra.webp|right wmed]]
 
 > Sequestered in high mountains atop tall trees, the aarakocra evoke fear and wonder. Many of these birdfolk hail from the boundless vistas of the Elemental Plane of Air. They are immigrants, refugees, scouts, and explorers, their outposts functioning as footholds in a world both strange and alien.
 
-## D&D 5e
+## D\&D 5e
+
 An aarakocra character has the following traits.
 
 **Ability Score Increase.** Your Dexterity score increases by 2, and your Wisdom score increases by 1.
@@ -26,7 +30,8 @@ An aarakocra character has the following traits.
 **Languages.** You can speak, read, and write Common, Aarakocra, and Auran.
 
 ## Daggerheart
-![[Ancestry - Avensis.png]]
+
+![[_imgs/Species/Daggerheart Ancestry/Ancestry - Avensis.png]]
 Source: [u/Gukusama Reddit](https://www.reddit.com/r/daggerbrew/s/0bSPT0NG2y)
 
 #species
