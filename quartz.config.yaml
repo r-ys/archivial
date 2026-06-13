@@ -234,7 +234,7 @@ plugins:
       position: left
       priority: 10
   - source: github:quartz-community/darkmode
-    enabled: false
+    enabled: true
     layout:
       position: left
       priority: 30
@@ -306,7 +306,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: its-theme
+      theme: its-theme.blue
       variation: ttrpg-dnd
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: false
