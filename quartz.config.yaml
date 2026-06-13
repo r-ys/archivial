@@ -164,7 +164,6 @@ plugins:
     layout:
       position: left
       priority: 50
-    options: {}
   - source: github:quartz-community/graph
     enabled: true
     options:
