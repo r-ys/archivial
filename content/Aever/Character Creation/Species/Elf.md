@@ -1,15 +1,12 @@
 ---
-publish: true
-created: 2026-06-09 18:42
-modified: 2026-06-12T16:38:14.364+08:00
 tags:
   - character creation
   - species
+date: 2026-06-09 18:42
 ---
-
 > Elves are a magical people of otherworldly grace, living in places of ethereal beauty, in the midst of ancient forests or in silvery spires glittering with faerie light, where soft music drifts through the air and gentle fragrances waft on the breeze. Elves love nature and magic, art and artistry, music and poetry.
 
-## D\&D 5e
+## D&D 5e
 
 **Ability Score Increase**. Your Dexterity score increases by 2.
 
@@ -67,8 +64,8 @@ Speed. Your base walking speed is 30 feet.
 > **Astral Trance**. You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in a trancelike meditation, during which you remain conscious. Whenever you finish this trance, you gain proficiency in one skill of your choice and with one weapon or tool of your choice, selected from the Player's Handbook. You magically acquire these proficiencies by drawing them from shared elven memory and the experiences of entities on the Astral Plane, and you retain them until you finish your next long rest.
 > **Languages**. You can speak, read, and write Common and one other language that you and your DM agree is appropriate.
 
-## D\&D 5.5e
 
+## D&D 5.5e
 **Creature Type**: Humanoid
 **Size**: Medium (about 5-6 feet tall)
 **Speed**: 30 feet
@@ -96,7 +93,6 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
 | Astral Elf (HB) | The range of your Darkvision increases to 120 feet. You also know the Starry Wisp cantrip.                                                                | Silent Image | Levitate           |
 
 ## Daggerheart
-
-![[_imgs/Species/Daggerheart Ancestry/Ancestry - Elf.webp]]
+![[Ancestry - Elf.webp]]
 
 #species

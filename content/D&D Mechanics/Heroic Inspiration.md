@@ -1,7 +1,6 @@
 ---
-publish: true
-created: 2026-06-04 02:34
-modified: 2026-06-12T16:44:59.515+08:00
+
+date: 2026-06-04 02:34
 ---
 
 Sometimes the DM or a rule gives you Heroic Inspiration. If you have Heroic Inspiration, you can expend it to reroll any die immediately after rolling it, and you must use the new roll.

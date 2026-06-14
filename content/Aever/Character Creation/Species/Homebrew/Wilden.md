@@ -1,19 +1,15 @@
 ---
-publish: true
-created: 2026-06-09 18:42
-modified: 2026-06-12T16:37:32.372+08:00
 tags:
   - character creation
   - species
+date: 2026-06-09 18:42
 ---
-
 > [!aside|right]-
-> ![[_imgs/Species/Individuals/Wilden.webp]]
+> ![[Wilden.webp]]
 
 > A wilden’s bones are made of hard wood while their skin is either a bark or leaf like in texture. Their colouring matches the seasons going from various greens when young to symbolize spring, changing colours as they reach adulthood and beyond turning to reds and oranges later in life.
 
-## D\&D 5e
-
+## D&D 5e
 Your wilden character has a number of traits, based on their connection with nature.
 
 **Ability Score Increase**. Your wisdom score increases by 2.
@@ -30,7 +26,7 @@ Your wilden character has a number of traits, based on their connection with nat
 
 **Tremorsense**. Being attuned to nature, you can feel vibrations of nearby footsteps when connected to the ground. When using the Chlorophyll feature, you have a tremorsense of 30 feet.
 
-**One With Nature**. You know the _druidcraft_ cantrip. Once you reach 3rd level, you can cast _Goodberry_ once per day. Once you reach 5th level, you can cast a spell based on your subrace. Wisdom is your spellcasting ability for these spells.
+**One With Nature**. You know the *druidcraft* cantrip. Once you reach 3rd level, you can cast *Goodberry* once per day. Once you reach 5th level, you can cast a spell based on your subrace. Wisdom is your spellcasting ability for these spells.
 
 **Languages**. You can speak, read, and write Common and Sylvan.
 
@@ -48,7 +44,6 @@ Source:
 [u/Ryune Reddit](https://docs.google.com/document/d/1BF7rIFAl2qM0VrocRbcIMhs7Yi8RVvJrJ50Li1u6PJc/edit?usp=sharing)
 
 ## Daggerheart
-
-![[_imgs/Species/Daggerheart Ancestry/Ancestry - Chlorad.png]]
+![[Ancestry - Chlorad.png]]
 
 #species #homebrew

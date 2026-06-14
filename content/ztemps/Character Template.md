@@ -1,20 +1,13 @@
 ---
-publish: true
-created: <%tp.file.creation_date()%>
-modified: 2026-06-12T18:12:11.952+08:00
 tags:
   - npc
   - wip
+date: <%tp.file.creation_date()%>
 ---
-
 > [!infobox|right wikipedia]
->
 > ## <%tp.file.title%>
->
 > ![[Theme-<%tp.file.title%>.webp|cover hsmall]]
->
 > ###
->
 > | Detail  |   test  |
 > | ------- | --- |
 > | Gender  |  test   |
@@ -25,3 +18,4 @@ tags:
 > test
 
 description
+

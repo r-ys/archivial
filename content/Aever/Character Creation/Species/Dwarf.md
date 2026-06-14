@@ -1,16 +1,12 @@
 ---
-publish: true
-created: 2026-06-09 18:42
-modified: 2026-06-12T16:38:08.885+08:00
 tags:
   - character creation
   - species
+date: 2026-06-09 18:42
 ---
-
 > Kingdoms rich in ancient grandeur, halls carved into the roots of mountains, the echoing of picks and hammers in deep mines and blazing forges, a commitment to clan and tradition, and a burning hatred of goblins and orcs – these common threads unite all dwarves.
 
-## D\&D 5e
-
+## D&D 5e
 Your dwarf character has an assortment of inborn  abilities, part and parcel of dwarven nature.
 
 **Ability Score Increase.** Your Constitution score increases by 2.
@@ -41,10 +37,9 @@ Your dwarf character has an assortment of inborn  abilities, part and parcel of 
 > **Ability Score Increase**. Your Strength score increases by 2.
 > **Dwarven Armor Training**. You have proficiency with light and medium armor.
 
-## D\&D 5.5e
-
-**Creature Type:** Humanoid\
-**Size:** Medium (about 4-5 feet tall)\
+## D&D 5.5e
+**Creature Type:** Humanoid  
+**Size:** Medium (about 4-5 feet tall)  
 **Speed:** 30 feet
 
 As a Dwarf, you have these special traits.
@@ -60,7 +55,6 @@ As a Dwarf, you have these special traits.
 You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
 ## Daggerheart
-
-![[_imgs/Species/Daggerheart Ancestry/Ancestry - Dwarf.webp]]
+![[Ancestry - Dwarf.webp]]
 
 #species

@@ -194,7 +194,7 @@ plugins:
         removeTags:
           - wip
         showTags: true
-        focusOnHover: true
+        focusOnHover: false
         enableRadial: true
     layout:
       position: right

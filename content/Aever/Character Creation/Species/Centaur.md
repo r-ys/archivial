@@ -1,16 +1,11 @@
 ---
-publish: true
-created: 2026-06-09 18:42
-modified: 2026-06-12T16:37:50.549+08:00
 tags:
   - character creation
   - species
+date: 2026-06-09 18:42
 ---
-
 > Centaurs gallop throughout the multiverse and trace their origins to many different realms. The centaurs presented here hail from the Feywild and mystically resonate with the natural world. From the waist up, they resemble elves, displaying all the elf varieties of skin tone. From the waist down, they have the bodies of horses.
-
-## D\&D 5e
-
+## D&D 5e
 Your centaur character shares a number of traits with other centaurs.
 
 **Ability Score Increase.** Your Strength score increases by 2, and your Wisdom score increases by 1.
@@ -34,7 +29,6 @@ Your centaur character shares a number of traits with other centaurs.
 **Languages.** You can speak, read, and write Common and Sylvan. Sylvan is widely spoken in the Selesnya Conclave, for it is rich in vocabulary to describe natural phenomena and spiritual forces.
 
 ## Daggerheart
-
-![[_imgs/Species/Daggerheart Ancestry/Ancestry - Centauri.png]]Source: [u/Gukusama Reddit](https://www.reddit.com/r/daggerbrew/s/0bSPT0NG2y)
+![[Ancestry - Centauri.png]]Source: [u/Gukusama Reddit](https://www.reddit.com/r/daggerbrew/s/0bSPT0NG2y)
 
 #species

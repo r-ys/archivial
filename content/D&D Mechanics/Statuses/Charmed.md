@@ -1,7 +1,6 @@
 ---
-publish: true
-created: 2026-06-04 01:13
-modified: 2026-06-12T16:44:49.508+08:00
+
+date: 2026-06-04 01:13
 ---
 
 While you have the **Charmed** condition, you experience the following effects.
@@ -10,6 +9,6 @@ While you have the **Charmed** condition, you experience the following effects.
 
 **Social Advantage**. The charmer has Advantage on any ability check to interact with you socially.
 
-**Source**: _PHB'24, page 361. Available in the SRD 5.2.1 and the Basic Rules (2024)._
+**Source**: *PHB'24, page 361. Available in the SRD 5.2.1 and the Basic Rules (2024).*
 
 #dnd2024 #status

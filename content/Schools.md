@@ -1,11 +1,10 @@
 ---
-publish: true
 draft: true
-created: 2026-05-17 23:15
-modified: 2026-06-12T16:35:00.324+08:00
+date: 2026-05-17 23:15
 ---
-
 For getting a job, it's better if you finish a school related to that. It gives you a better chance if you also take minor courses that connect to that job. An example is a patrol guard/city guard. You would need to finish Combat School and some minor courses in the School of Law for the highest chance of getting hired. Another example is if you want to be a bard. You would finish either School of Arts or Magic (whichever you want to focus on), and take minor courses in the other school respectively. Some like to be well-rounded, and choose the one they like most as their major school, and pay for lots of minor courses. This only really works if you're rich enough to afford it.
+
+
 
 For getting a job, it's better if you finish a school related to that. It gives you a better chance if you also take minor courses that connect to that job.
 
@@ -67,21 +66,27 @@ Every beginning of an Honor's Year, the students of each school meet in the coun
 
 Trial Week, assuming everything is right on schedule (which it always is), always starts with the passing of a comet and ends with a double-moon eclipse.
 
+
+
 **(Free) Standard Learning**
 
 - children five to ten years of age at standard school.
+    
 
 **(5g) Advanced Standard**
 
 - standard school again, but with more details. For older children. Lasts for three more years.
+    
 
 **(10g) Specialty Education**
 
 - specialty school or major school of the student.
+    
 
 **(50s) Minor Courses**
 
 - a course a student can take from a different school of choice. Done during school breaks. Each course only needs a certain amount of time so you're able to take multiple courses in one break, and you can continue to self study if you'd like to.
+    
 
 **(10s) Testing**
 

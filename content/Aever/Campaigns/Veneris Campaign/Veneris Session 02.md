@@ -1,17 +1,14 @@
 ---
-publish: true
-created: 2026-03-23 02:20
-modified: 2026-06-14T03:50:15.027+08:00
 tags:
   - session
+date: 2026-03-23 02:20
+held: 2025-08-17
 ---
-
 Session 2 of the Veneris Campaign held in the Cunt Cult Campaign VC.
 Complete attendees 5/5.
 4:30pm - 6:00pm.
 
 # Notes
-
 party investigated and snuck through the manor's basement.
 
 they've found an area patrolled by dire wolves. they manage to juke the dire wolves by just being hella quiet and sneaky.
