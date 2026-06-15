@@ -1,8 +1,13 @@
 ---
 tags:
-  - BIG WIP
+  - 
 date: 2026-06-10 17:33
 ---
+
+
+
+
+
 
 
 Eternals are beings forced into reincarnating. Their souls are always in the loop of life. As soon as they die, their souls are born again in a different body, each life different than the last.

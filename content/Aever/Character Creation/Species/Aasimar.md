@@ -8,6 +8,8 @@ date: 2026-06-09 18:42
 
 Aasimar bear within their souls the light of the heavens. They are descended from humans with a touch of the power of Mount Celestia, the divine realm of many lawful good deities. Aasimar are born to serve as champions of the gods, their births hailed as blessed events. They are a people of otherworldly visages, with luminous features that reveal their celestial heritage.
 
+Aasimar 
+
 ## D&D 5e
 Your aasimar character has the following racial traits.
 
@@ -77,3 +79,7 @@ Here are the transformation options:
 Source: [u/Gukusama Reddit](https://www.reddit.com/r/daggerbrew/s/0bSPT0NG2y)
 
 #species
+
+the priest was counting superheroes and he said superman, batman, spiderman
+guess which IP has a popular cinemafic universe
+its interesting isnt it
