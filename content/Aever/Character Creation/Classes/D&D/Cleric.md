@@ -8,7 +8,7 @@ date: 2026-06-09 18:42
 Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.
 
 #### Cleric Domains 
-> [!tip]- Arcana
+> [!tip]+ Arcana
 > Magic is an energy that suffuses the multiverse and that fuels both destruction and creation. Gods of the Arcana domain know the secrets and potential of magic intimately. For some of these gods, magical knowledge is a great responsibility that comes with a special understanding of the nature of reality. Other gods of Arcana see magic as pure power, to be used as its wielder sees fit.
 > ##### Gods of the Domain:
 > **Aever** : [[Magic Divinity]]
