@@ -1,10 +1,13 @@
 ---
 publish: true
 created: 2026-06-09 18:42
-modified: 2026-06-14T18:57:15.312+08:00
+modified: 2026-06-18T08:45:20.884+08:00
 tags:
   - character creation
   - species
+cssclasses:
+  - banner
+  - banner-gradient
 ---
 
 ![[_imgs/Species/Individuals/Aasimar.webp|banner p+tc]]
