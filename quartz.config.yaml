@@ -305,7 +305,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: its-theme.blue
+      theme: fancy-a-story
       variation: ttrpg-dnd
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: false
