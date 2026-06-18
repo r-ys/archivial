@@ -1,15 +1,19 @@
 ---
+publish: true
+created: 2026-05-26 17:16
+modified: 2026-06-18T08:25:42.912+08:00
 tags:
-  - character creation
-date: 2026-05-26 17:16
+  - character_creation
 ---
-This page contains all the species that populate the world of Aever. Each species considers stats/mechanics for D&D 5e, D&D 5.5e, and their Daggerheart equivalent.
+
+This page contains all the species that populate the world of Aever. Each species considers stats/mechanics for D\&D 5e, D\&D 5.5e, and their Daggerheart equivalent.
 
 > [!info]- On 5e and 5.5e
-> Some of the D&D 5e/Homebrew content don't have an equivalent in 5.5e yet. If you find your choice doesn't have it, just remove the Ability Score Increases.
+> Some of the D\&D 5e/Homebrew content don't have an equivalent in 5.5e yet. If you find your choice doesn't have it, just remove the Ability Score Increases.
 
 ## Common
-![[Species-DNDCommon.webp]]
+
+![[_imgs/Species/Species-DNDCommon.webp]]
 
 [[Human]]
 [[Dragonborn|Dragonborn / Drakona]]
@@ -20,7 +24,8 @@ This page contains all the species that populate the world of Aever. Each specie
 [[Tiefling|Tiefling / Infernis]]
 
 ## Exotic
-![[Species-DNDExotic.webp]]
+
+![[_imgs/Species/Species-DNDExotic.webp]]
 
 [[Aarakocra]]
 [[Aasimar]]

@@ -1,16 +1,20 @@
 ---
+publish: true
+created: 2026-06-09 18:42
+modified: 2026-06-14T18:57:15.312+08:00
 tags:
   - character creation
   - species
-date: 2026-06-09 18:42
 ---
-![[Aasimar.webp|banner p+tc]]
+
+![[_imgs/Species/Individuals/Aasimar.webp|banner p+tc]]
 
 Aasimar bear within their souls the light of the heavens. They are descended from humans with a touch of the power of Mount Celestia, the divine realm of many lawful good deities. Aasimar are born to serve as champions of the gods, their births hailed as blessed events. They are a people of otherworldly visages, with luminous features that reveal their celestial heritage.
 
-Aasimar 
+Aasimar
 
-## D&D 5e
+## D\&D 5e
+
 Your aasimar character has the following racial traits.
 
 **Ability Score Increase.** Your Charisma score increases by 2.
@@ -39,7 +43,7 @@ Your aasimar character has the following racial traits.
 > Your transformation lasts for 1 minute or until you end it as a bonus action. During it, you have a flying speed of 30 feet, and once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra radiant damage equals your level.
 > Once you use this trait, you can't use it again until you finish a long rest.
 
-> [!example]- Scourge 
+> [!example]- Scourge
 > **Ability Score Increase**. Your Constitution score increases by 1.
 > **Radiant Consumption**. Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing a searing light to radiate from you, pour out of your eyes and mouth, and threaten to char you.
 > Your transformation lasts for 1 minute or until you end it as a bonus action. During it, you shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take radiant damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra radiant damage equals your level.
@@ -51,9 +55,10 @@ Your aasimar character has the following racial traits.
 > Your transformation lasts for 1 minute or until you end it as a bonus action. During it, once on each of your turns, you can deal extra necrotic damage to one target when you deal damage to it with an attack or a spell. The extra necrotic damage equals your level.
 > Once you use this trait, you can't use it again until you finish a long rest.
 
-## D&D 5.5e
-**Creature Type:** Humanoid  
-**Size:** Medium (about 4-7 feet tall) or Small (about 2-4 feet tall), chosen when you select this species  
+## D\&D 5.5e
+
+**Creature Type:** Humanoid\
+**Size:** Medium (about 4-7 feet tall) or Small (about 2-4 feet tall), chosen when you select this species\
 **Speed:** 30 feet
 
 As an Aasimar, you have these special traits.
@@ -69,13 +74,14 @@ As an Aasimar, you have these special traits.
 **Celestial Revelation.** When you reach character level 3, you can transform as a Bonus Action using one of the options below (choose the option each time you transform). The transformation lasts for 1 minute or until you end it (no action required). Once you transform, you can’t do so again until you finish a Long Rest.
 Once on each of your turns before the transformation ends, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your Proficiency Bonus, and the extra damage’s type is either Necrotic for Necrotic Shroud or Radiant for Heavenly Wings and Inner Radiance.
 
-Here are the transformation options:  
+Here are the transformation options:\
 **Heavenly Wings.** Two spectral wings sprout from your back temporarily. Until the transformation ends, you have a Fly Speed equal to your Speed.
 **Inner Radiance.** Searing light temporarily radiates from your eyes and mouth. For the duration, you shed Bright Light in a 10-foot radius and Dim Light for an additional 10 feet, and at the end of each of your turns, each creature within 10 feet of you takes Radiant damage equal to your Proficiency Bonus.
 **Necrotic Shroud.** Your eyes briefly become pools of darkness, and flightless wings sprout from your back temporarily. Creatures other than your allies within 10 feet of you must succeed on a Charisma saving throw (DC 8 plus your Charisma modifier and Proficiency Bonus) or have the Frightened condition until the end of your next turn.
 
 ## Daggerheart
-![[Ancestry - Aetheris.webp]]
+
+![[_imgs/Species/Daggerheart Ancestry/Ancestry - Aetheris.webp]]
 Source: [u/Gukusama Reddit](https://www.reddit.com/r/daggerbrew/s/0bSPT0NG2y)
 
 #species

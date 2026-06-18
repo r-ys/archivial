@@ -1,15 +1,18 @@
 ---
+publish: true
+created: 2026-03-23 02:19
+modified: 2026-06-14T03:49:24.264+08:00
 tags:
   - session
-date: 2026-03-23 02:19
-held: 2025-06-22
 ---
+
 Session 1 of the Veneris Campaign held in the Cunt Cult Campaign VC.
 Complete attendees 5/5.
 Spectators: 2 (Ian and Iya).
 3:00pm - 5:00pm.
 
 # Notes
+
 - blessed the unit, established the Supply Office, Captain's Office, and the Cafeteria/Canteen.
 - introduced Kennan Aris and Varah. Got to work on the case.
 - Morgue: Ship Captain is not ready to be seen (only for those with written permission)

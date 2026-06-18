@@ -1,13 +1,17 @@
 ---
+publish: true
+created: 2026-06-09 18:42
+modified: 2026-06-15T19:39:47.913+08:00
 tags:
   - character creation
-date: 2026-06-09 18:42
 ---
+
 These class inclusions are not the full class details present in any ruleset. These are moreso descriptions of the Classes and Subclasses and how they fit into the world at large.
 
 The following are the available classes in Aever.
 
-## D&D 5e
+## D\&D 5e
+
 [[Artificer]]
 [[Barbarian]]
 [[Bard]]
@@ -22,6 +26,7 @@ The following are the available classes in Aever.
 [[Wizard]]
 
 ## Daggerheart
+
 [[DH Bard|Bard]]
 [[DH Druid|Druid]]
 [[DH Guardian|Guardian]]
