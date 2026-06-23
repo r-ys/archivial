@@ -1,14 +1,17 @@
 ---
 publish: true
 created: 2026-06-09 18:42
-modified: 2026-06-12T16:37:32.372+08:00
+modified: 2026-06-23T23:07:25.223+08:00
 tags:
-  - character creation
   - species
+  - homebrew
+  - character_creation
+cssclasses:
+  - banner
+  - banner-gradient
 ---
 
-> [!aside|right]-
-> ![[_imgs/Species/Individuals/Wilden.webp]]
+![[_imgs/Species/Individuals/Wilden.webp]]
 
 > A wilden’s bones are made of hard wood while their skin is either a bark or leaf like in texture. Their colouring matches the seasons going from various greens when young to symbolize spring, changing colours as they reach adulthood and beyond turning to reds and oranges later in life.
 
@@ -49,6 +52,4 @@ Source:
 
 ## Daggerheart
 
-![[_imgs/Species/Daggerheart Ancestry/Ancestry - Chlorad.png]]
-
-#species #homebrew
+![[_imgs/Species/Daggerheart Ancestry/Ancestry - Chlorad.webp]]

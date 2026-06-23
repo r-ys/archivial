@@ -1,11 +1,16 @@
 ---
 publish: true
 created: 2026-06-09 18:42
-modified: 2026-06-12T16:38:20.548+08:00
+modified: 2026-06-23T23:04:37.793+08:00
 tags:
-  - character creation
   - species
+  - character_creation
+cssclasses:
+  - banner
+  - banner-gradient
 ---
+
+![[_imgs/Species/Individuals/Gnome.webp]]
 
 > A constant hum of busy activity pervades the warrens and neighborhoods where gnomes form their close-knit communities. Louder sounds punctuate the hum: a crunch of grinding gears here, a minor explosion there, a yelp of surprise or triumph, and especially bursts of laughter. Gnomes take delight in life, enjoying every moment of invention, exploration, investigation, creation, and play.
 

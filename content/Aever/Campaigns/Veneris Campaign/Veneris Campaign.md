@@ -21,9 +21,9 @@ You are all soldiers part of the Sacred Order in Veneris, specializing in differ
 | File                                                                 | Played By |
 | -------------------------------------------------------------------- | --------- |
 | [[Aever/Campaigns/Veneris Campaign/Akira Locke.md\|Akira Locke]]     | Non       |
-| [[Aever/Campaigns/Veneris Campaign/Akiro Locke.md\|Akiro Locke]]     | Exu       |
 | [[Aever/Campaigns/Veneris Campaign/Baron Quenton.md\|Baron Quenton]] | Isaac     |
 | [[Aever/Campaigns/Veneris Campaign/Iris.md\|Iris]]                   | Iris      |
+| [[Aever/Campaigns/Veneris Campaign/Akiro Locke.md\|Akiro Locke]]     | Exu       |
 | [[Aever/Campaigns/Veneris Campaign/Phlox.md\|Phlox]]                 | Vic       |
 | [[Aever/Campaigns/Veneris Campaign/Regis Knox.md\|Regis Knox]]       | Uki       |
 
@@ -39,5 +39,5 @@ You are all soldiers part of the Sacred Order in Veneris, specializing in differ
 
 | File                                                                           | Date Held       |
 | ------------------------------------------------------------------------------ | --------------- |
-| [[Aever/Campaigns/Veneris Campaign/Veneris Session 02.md\|Veneris Session 02]] | August 17, 2025 |
 | [[Aever/Campaigns/Veneris Campaign/Veneris Session 01.md\|Veneris Session 01]] | June 22, 2025   |
+| [[Aever/Campaigns/Veneris Campaign/Veneris Session 02.md\|Veneris Session 02]] | August 17, 2025 |

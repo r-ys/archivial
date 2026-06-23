@@ -1,0 +1,51 @@
+filters:
+  and:
+    - file.ext == "md"
+views:
+  - type: table
+    name: Overview
+    filters:
+      and:
+        - file.folder != "_inspo"
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - draft
+      - file.tags
+      - tags
+      - dg-publish
+      - dg-home
+    sort:
+      - property: dg-home
+        direction: ASC
+      - property: dg-publish
+        direction: ASC
+      - property: tags
+        direction: ASC
+    columnSize:
+      file.tags: 227
+  - type: table
+    name: Published Notes
+    filters:
+      and:
+        - draft != true
+        - file.folder != "_inspo"
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - draft
+      - file.tags
+      - tags
+      - dg-publish
+      - dg-home
+    sort:
+      - property: draft
+        direction: ASC
+      - property: tags
+        direction: DESC
+    columnSize:
+      file.tags: 236

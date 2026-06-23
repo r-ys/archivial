@@ -1,20 +1,18 @@
 ---
 publish: true
 created: 2026-06-09 18:42
-modified: 2026-06-18T08:45:20.884+08:00
+modified: 2026-06-23T21:11:37.474+08:00
 tags:
-  - character creation
   - species
+  - character_creation
 cssclasses:
   - banner
   - banner-gradient
 ---
 
-![[_imgs/Species/Individuals/Aasimar.webp|banner p+tc]]
+![[_imgs/Species/Individuals/Aasimar.webp]]
 
-Aasimar bear within their souls the light of the heavens. They are descended from humans with a touch of the power of Mount Celestia, the divine realm of many lawful good deities. Aasimar are born to serve as champions of the gods, their births hailed as blessed events. They are a people of otherworldly visages, with luminous features that reveal their celestial heritage.
-
-Aasimar
+> Aasimar bear within their souls the light of the heavens. They are descended from humans with a touch of the power of Mount Celestia, the divine realm of many lawful good deities. Aasimar are born to serve as champions of the gods, their births hailed as blessed events. They are a people of otherworldly visages, with luminous features that reveal their celestial heritage.
 
 ## D\&D 5e
 
@@ -86,9 +84,3 @@ Here are the transformation options:\
 
 ![[_imgs/Species/Daggerheart Ancestry/Ancestry - Aetheris.webp]]
 Source: [u/Gukusama Reddit](https://www.reddit.com/r/daggerbrew/s/0bSPT0NG2y)
-
-#species
-
-the priest was counting superheroes and he said superman, batman, spiderman
-guess which IP has a popular cinemafic universe
-its interesting isnt it

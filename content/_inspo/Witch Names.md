@@ -3,8 +3,8 @@
 | Acamar     | [[Spica]]                |
 | Adhara     | [[Akiro Locke\|Umbriel]] |
 | Ain        | [[Maia]]                 |
-| Alasia     |                          |
-| Alcor      |                          |
+| Alasia     | [[Polaris]]              |
+| Alcor      | [[Regulus]]              |
 | Alcyone    |                          |
 | Altair     |                          |
 | Alya       |                          |
@@ -45,12 +45,10 @@
 | Paloma     |                          |
 | Petra      |                          |
 | Pistol     |                          |
-| Polaris    |                          |
 | Pollux     |                          |
 | Ramus      |                          |
 | Ran        |                          |
 | Rasalas    |                          |
-| Regulus    |                          |
 | Rigel      |                          |
 | Safina     |                          |
 | Sadr       |                          |

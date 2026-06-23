@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2026-06-09 18:42
-modified: 2026-06-15T19:39:47.913+08:00
+modified: 2026-06-23T23:03:12.005+08:00
 tags:
-  - character creation
+  - character_creation
 ---
 
 These class inclusions are not the full class details present in any ruleset. These are moreso descriptions of the Classes and Subclasses and how they fit into the world at large.

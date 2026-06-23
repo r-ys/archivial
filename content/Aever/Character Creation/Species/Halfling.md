@@ -1,11 +1,16 @@
 ---
 publish: true
 created: 2026-06-09 18:42
-modified: 2026-06-12T16:38:26.948+08:00
+modified: 2026-06-23T23:04:40.173+08:00
 tags:
-  - character creation
   - species
+  - character_creation
+cssclasses:
+  - banner
+  - banner-gradient
 ---
+
+![[_imgs/Species/Individuals/Halfling.webp]]
 
 > The comforts of home are the goals of most halflings' lives: a place to settle in peace and quiet, far from marauding monsters and clashing armies. Others form nomadic bands that travel constantly, lured by the open road and the wide horizon to discover the wonders of new lands and peoples. Halflings work readily with others, and they are loyal to their friends, whether halfling or otherwise. They can display remarkable ferocity when their friends, families, or communities are threatened.
 

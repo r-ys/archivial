@@ -1,11 +1,16 @@
 ---
 publish: true
 created: 2026-06-09 18:42
-modified: 2026-06-12T16:37:50.549+08:00
+modified: 2026-06-23T21:11:47.280+08:00
 tags:
-  - character creation
   - species
+  - character_creation
+cssclasses:
+  - banner
+  - banner-gradient
 ---
+
+![[_imgs/Species/Individuals/Centaur.webp]]
 
 > Centaurs gallop throughout the multiverse and trace their origins to many different realms. The centaurs presented here hail from the Feywild and mystically resonate with the natural world. From the waist up, they resemble elves, displaying all the elf varieties of skin tone. From the waist down, they have the bodies of horses.
 
@@ -35,6 +40,6 @@ Your centaur character shares a number of traits with other centaurs.
 
 ## Daggerheart
 
-![[_imgs/Species/Daggerheart Ancestry/Ancestry - Centauri.png]]Source: [u/Gukusama Reddit](https://www.reddit.com/r/daggerbrew/s/0bSPT0NG2y)
+![[_imgs/Species/Daggerheart Ancestry/Ancestry - Centauri.webp]]Source: [u/Gukusama Reddit](https://www.reddit.com/r/daggerbrew/s/0bSPT0NG2y)
 
 #species

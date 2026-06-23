@@ -1,11 +1,16 @@
 ---
 publish: true
 created: 2026-06-09 18:42
-modified: 2026-06-12T16:38:14.364+08:00
+modified: 2026-06-23T23:04:36.219+08:00
 tags:
-  - character creation
   - species
+  - character_creation
+cssclasses:
+  - banner
+  - banner-gradient
 ---
+
+![[_imgs/Species/Individuals/Elf.webp]]
 
 > Elves are a magical people of otherworldly grace, living in places of ethereal beauty, in the midst of ancient forests or in silvery spires glittering with faerie light, where soft music drifts through the air and gentle fragrances waft on the breeze. Elves love nature and magic, art and artistry, music and poetry.
 

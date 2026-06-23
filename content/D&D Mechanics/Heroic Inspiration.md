@@ -1,7 +1,10 @@
 ---
 publish: true
 created: 2026-06-04 02:34
-modified: 2026-06-12T16:44:59.515+08:00
+modified: 2026-06-23T23:09:45.769+08:00
+tags:
+  - dnd2024
+  - mechanic
 ---
 
 Sometimes the DM or a rule gives you Heroic Inspiration. If you have Heroic Inspiration, you can expend it to reroll any die immediately after rolling it, and you must use the new roll.
@@ -12,5 +15,3 @@ Sometimes the DM or a rule gives you Heroic Inspiration. If you have Heroic Insp
 Typically, DMs award it when you do something particularly heroic, in character, or entertaining.
 It's a reward for making the game more fun for everyone playing.
 Other rules might allow your character to gain Heroic Inspiration independent of the DM's decision. For example, Human characters start each day with Heroic Inspiration.
-
-#dnd2024 #mechanic

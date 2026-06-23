@@ -1,7 +1,9 @@
 ---
 publish: true
 created: 2026-03-24 05:42
-modified: 2026-06-14T04:22:37.631+08:00
+modified: 2026-06-23T23:09:24.870+08:00
+tags:
+  - group
 ---
 
 A witch is someone that's given their soul to [[Lune]], the Moon Divine. They are known to be Lune's most intense servants. Their soul, the object that Lune grants power to, is physically taken from each witch and enveloped by the night sky, turning into a star.

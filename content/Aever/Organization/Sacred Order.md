@@ -1,7 +1,9 @@
 ---
 publish: true
 created: 2026-03-24 05:40
-modified: 2026-06-12T16:41:34.619+08:00
+modified: 2026-06-23T23:09:17.771+08:00
+tags:
+  - organization
 ---
 
 The **Sacred Order** is a group of knights recruited by the [[Veneris City|Venere royal clergy]]. They are the main combative group assigned to deal with various 'sacrilegious' and 'unholy' threats in the entirety of Veneris. There are different divisions within the organization dedicated to certain things, such as the undead, vampires, or witches.

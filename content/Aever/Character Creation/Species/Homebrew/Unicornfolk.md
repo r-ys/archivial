@@ -1,14 +1,17 @@
 ---
 publish: true
 created: 2026-06-09 18:42
-modified: 2026-06-12T16:37:25.837+08:00
+modified: 2026-06-23T23:07:29.587+08:00
 tags:
-  - character creation
   - species
+  - homebrew
+  - character_creation
+cssclasses:
+  - banner
+  - banner-gradient
 ---
 
-> [!aside|right]-
-> ![[_imgs/Species/Individuals/Unicornfolk.webp]]
+![[_imgs/Species/Individuals/Unicornfolk.webp]]
 
 > Unicorns are bipedal beings of striking beauty who blend equine and humanoid traits into one graceful form. Their most striking feature is the singular, spiraled horn that grows from their forehead. It is an extension of both will and soul—a nexus of their innate powers.
 
@@ -39,6 +42,4 @@ Assorted. [D\&D Beyond](https://www.dndbeyond.com/forums/dungeons-dragons-discus
 
 ## Daggerheart
 
-![[_imgs/Species/Daggerheart Ancestry/Ancestry - Kirin.png]]
-
-#species #homebrew
+![[_imgs/Species/Daggerheart Ancestry/Ancestry - Kirin.webp]]

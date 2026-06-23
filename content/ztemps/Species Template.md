@@ -1,10 +1,16 @@
 ---
 publish: true
 created: <%tp.file.creation_date()%>
-modified: 2026-06-12T18:12:51.568+08:00
+modified: 2026-06-23T21:09:41.550+08:00
 tags:
   - species
+  - wip
+cssclasses:
+  - banner
+  - banner-gradient
 ---
+
+![[<%tp.file.title%>.webp]]
 
 > Paragraph description
 
@@ -29,5 +35,3 @@ as a ? you have the following
 
 PHOTO
 Source: [u/Gukusama Reddit](https://www.reddit.com/r/daggerbrew/s/0bSPT0NG2y)
-
-tags

@@ -1,11 +1,16 @@
 ---
 publish: true
 created: 2026-06-09 18:42
-modified: 2026-06-12T16:38:39.661+08:00
+modified: 2026-06-23T23:04:42.302+08:00
 tags:
-  - character creation
   - species
+  - character_creation
+cssclasses:
+  - banner
+  - banner-gradient
 ---
+
+![[_imgs/Species/Individuals/Tiefling.webp]]
 
 > To be greeted with stares and whispers, to suffer violence and insult on the street, to see mistrust and fear in every eye: this is the lot of the tiefling. And to twist the knife, tieflings know that this is because a pact struck generations ago infused the essence of Asmodeus, overlord of the Nine Hells (and many of the other powerful devils serving under him) into their bloodline. Their appearance and their nature are not their fault but the result of an ancient sin, for which they and their children and their children's children will always be held accountable.
 

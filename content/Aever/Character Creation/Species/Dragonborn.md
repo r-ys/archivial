@@ -1,11 +1,16 @@
 ---
 publish: true
 created: 2026-06-08 09:22
-modified: 2026-06-12T16:38:02.633+08:00
+modified: 2026-06-23T23:04:49.884+08:00
 tags:
-  - character creation
   - species
+  - character_creation
+cssclasses:
+  - banner
+  - banner-gradient
 ---
+
+![[_imgs/Species/Individuals/Dragonborn.webp]]
 
 > Born of dragons, as their name proclaims, the dragonborn walk proudly through a world that greets them with fearful incomprehension. Shaped by draconic gods or the dragons themselves, dragonborn originally hatched from dragon eggs as a unique race, combining the best attributes of dragons and humanoids. Some dragonborn are faithful servants to true dragons, others form the ranks of soldiers in great wars, and still others find themselves adrift, with no clear calling in life.
 

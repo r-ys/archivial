@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2026-06-09 18:42
-modified: 2026-06-15T21:57:44.982+08:00
+modified: 2026-06-23T23:03:20.389+08:00
 tags:
-  - character creation
+  - character_creation
   - class
   - wip
 ---

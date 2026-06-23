@@ -1,16 +1,16 @@
 ---
 publish: true
 created: 2026-06-09 18:42
-modified: 2026-06-18T08:34:58.377+08:00
+modified: 2026-06-23T21:20:08.337+08:00
 tags:
-  - character creation
   - species
+  - character_creation
 cssclasses:
   - banner
   - banner-gradient
 ---
 
-![[_imgs/Species/Individuals/Aarakocra.webp|right]]
+![[_imgs/Species/Individuals/Aarakocra.webp]]
 
 > Sequestered in high mountains atop tall trees, the aarakocra evoke fear and wonder. Many of these birdfolk hail from the boundless vistas of the Elemental Plane of Air. They are immigrants, refugees, scouts, and explorers, their outposts functioning as footholds in a world both strange and alien.
 
@@ -34,7 +34,5 @@ An aarakocra character has the following traits.
 
 ## Daggerheart
 
-![[_imgs/Species/Daggerheart Ancestry/Ancestry - Avensis.png]]
+![[_imgs/Species/Daggerheart Ancestry/Ancestry - Avensis.webp]]
 Source: [u/Gukusama Reddit](https://www.reddit.com/r/daggerbrew/s/0bSPT0NG2y)
-
-#species
