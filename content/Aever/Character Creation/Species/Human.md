@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-06-09 18:42
-modified: 2026-06-23T23:04:32.188+08:00
+modified: 2026-06-24T04:36:08.353+08:00
 tags:
-  - species
-  - character_creation
+  - character_creation/species
 cssclasses:
   - banner
   - banner-gradient
@@ -52,5 +51,3 @@ As a Human, you have these special traits.
 ## Daggerheart
 
 ![[_imgs/Species/Daggerheart Ancestry/Ancestry - Human.webp]]
-
-#species

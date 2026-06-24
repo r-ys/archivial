@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-06-08 09:22
-modified: 2026-06-23T23:04:49.884+08:00
+modified: 2026-06-24T04:36:08.352+08:00
 tags:
-  - species
-  - character_creation
+  - character_creation/species
 cssclasses:
   - banner
   - banner-gradient
@@ -151,5 +150,3 @@ You can use this Breath Weapon a number of times equal to your Proficiency Bonus
 ## Daggerheart
 
 ![[_imgs/Species/Daggerheart Ancestry/Ancestry - Drakona.webp]]
-
-#species

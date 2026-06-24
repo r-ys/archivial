@@ -1,11 +1,10 @@
 ---
 publish: true
 created: 2026-03-23 00:00
-modified: 2026-06-12T16:38:51.995+08:00
+modified: 2026-06-24T04:45:37.019+08:00
 tags:
-  - mythos
-  - divinity
   - wip
+  - mythos/divinity
 ---
 
 Related: [[Fables and Legends]]

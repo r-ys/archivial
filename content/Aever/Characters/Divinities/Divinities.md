@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2026-03-23 00:00
-modified: 2026-06-12T16:38:45.724+08:00
+modified: 2026-06-24T04:44:49.019+08:00
 tags:
-  - mythos
+  - moc
 ---
 
 Divinities are the essential aspects that give the world life. They are gods in the technical sense, but they work a bit differently as they don't need the belief or support of humans to continue existing.

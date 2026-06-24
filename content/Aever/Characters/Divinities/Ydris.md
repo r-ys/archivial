@@ -1,11 +1,10 @@
 ---
 publish: true
 created: 2026-03-23 02:23
-modified: 2026-06-12T16:39:14.868+08:00
+modified: 2026-06-24T04:45:50.091+08:00
 tags:
-  - mythos
-  - divinity
   - wip
+  - mythos/divinity
 ---
 
 wip

@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2026-06-10 17:33
-modified: 2026-06-14T03:19:33.029+08:00
+modified: 2026-06-24T04:28:51.814+08:00
 tags:
-  - player_character
+  - character/pc
 ---
 
 **Phlox** is an artificer played by @samu.cha in the Veneris Campaign.

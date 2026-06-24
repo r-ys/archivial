@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-06-09 18:42
-modified: 2026-06-23T21:11:47.280+08:00
+modified: 2026-06-24T04:35:34.980+08:00
 tags:
-  - species
-  - character_creation
+  - character_creation/species
 cssclasses:
   - banner
   - banner-gradient
@@ -41,5 +40,3 @@ Your centaur character shares a number of traits with other centaurs.
 ## Daggerheart
 
 ![[_imgs/Species/Daggerheart Ancestry/Ancestry - Centauri.webp]]Source: [u/Gukusama Reddit](https://www.reddit.com/r/daggerbrew/s/0bSPT0NG2y)
-
-#species

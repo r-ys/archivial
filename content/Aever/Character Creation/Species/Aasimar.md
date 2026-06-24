@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-06-09 18:42
-modified: 2026-06-23T21:11:37.474+08:00
+modified: 2026-06-24T04:34:48.515+08:00
 tags:
-  - species
-  - character_creation
+  - character_creation/species
 cssclasses:
   - banner
   - banner-gradient

@@ -1,11 +1,9 @@
 ---
 publish: true
 created: 2026-06-09 18:42
-modified: 2026-06-23T23:07:25.223+08:00
+modified: 2026-06-24T04:41:15.687+08:00
 tags:
-  - species
-  - homebrew
-  - character_creation
+  - character_creation/species
 cssclasses:
   - banner
   - banner-gradient

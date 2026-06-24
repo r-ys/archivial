@@ -1,16 +1,13 @@
 ---
 publish: true
 created: <%tp.file.creation_date()%>
-modified: 2026-06-12T18:12:11.952+08:00
+modified: 2026-06-24T04:28:36.945+08:00
 tags:
-  - npc
+  - character/npc
   - wip
 ---
 
-> [!infobox|right wikipedia]
->
-> ## <%tp.file.title%>
->
+> [!infobox|right wikipedia] <%tp.file.title%>
 > ![[Theme-<%tp.file.title%>.webp|cover hsmall]]
 >
 > ###

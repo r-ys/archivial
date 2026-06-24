@@ -1,9 +1,10 @@
 ---
 publish: true
 created: 2026-05-26 17:16
-modified: 2026-06-18T08:25:42.912+08:00
+modified: 2026-06-24T04:45:06.755+08:00
 tags:
   - character_creation
+  - moc
 ---
 
 This page contains all the species that populate the world of Aever. Each species considers stats/mechanics for D\&D 5e, D\&D 5.5e, and their Daggerheart equivalent.

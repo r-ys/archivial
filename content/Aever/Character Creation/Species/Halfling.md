@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-06-09 18:42
-modified: 2026-06-23T23:04:40.173+08:00
+modified: 2026-06-24T04:36:08.352+08:00
 tags:
-  - species
-  - character_creation
+  - character_creation/species
 cssclasses:
   - banner
   - banner-gradient
@@ -63,5 +62,3 @@ As a Halfling, you have these special traits.
 ## Daggerheart
 
 ![[_imgs/Species/Daggerheart Ancestry/Ancestry - Halfling.webp]]
-
-#species

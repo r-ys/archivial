@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2026-06-10 17:33
-modified: 2026-06-14T04:35:18.086+08:00
+modified: 2026-06-24T04:28:37.003+08:00
 tags:
-  - npc
+  - character/npc
   - wip
 ---
 

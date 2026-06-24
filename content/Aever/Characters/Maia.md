@@ -2,12 +2,12 @@
 publish: true
 draft: true
 created: 2026-03-24 05:38
-modified: 2026-06-14T04:35:04.684+08:00
+modified: 2026-06-24T04:28:37.003+08:00
 tags:
-  - npc
+  - character/npc
 ---
 
-![[_imgs/Theme-Maia.webp|right wsmall]]
+![[_imgs/Themes/Theme-Maia.webp|right wsmall]]
 
 **Maia** is a witch.
 

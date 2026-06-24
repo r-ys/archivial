@@ -2,10 +2,9 @@
 publish: true
 draft: true
 created: 2026-06-09T21:30:12.260+08:00
-modified: 2026-06-23T23:03:02.795+08:00
+modified: 2026-06-24T04:36:31.711+08:00
 tags:
   - wip
-  - campaign_plan
 ---
 
 ## Premise

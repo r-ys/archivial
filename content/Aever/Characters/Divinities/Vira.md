@@ -1,11 +1,10 @@
 ---
 publish: true
 created: 2026-03-23 02:24
-modified: 2026-06-12T16:39:08.947+08:00
+modified: 2026-06-24T04:45:44.950+08:00
 tags:
-  - mythos
-  - divinity
   - wip
+  - mythos/divinity
 ---
 
 Vira is the Divinity of Life, however, she isn't aware that she is. She is the only mortal divinity, going through the life-death cycle like the rest of the population. She is reincarnated over and over and over again as different beings with different lives, working somewhat similar to [[Eternals]]. Vira as an individual does not exist (or has never made herself known), but her presence could appear in anything that is born.

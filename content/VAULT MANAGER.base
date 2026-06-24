@@ -12,11 +12,9 @@ views:
       direction: ASC
     order:
       - file.name
-      - draft
       - file.tags
       - tags
-      - dg-publish
-      - dg-home
+      - draft
     sort:
       - property: dg-home
         direction: ASC
@@ -26,6 +24,8 @@ views:
         direction: ASC
     columnSize:
       file.tags: 227
+      note.tags: 224
+      note.draft: 78
   - type: table
     name: Published Notes
     filters:
@@ -40,12 +40,35 @@ views:
       - draft
       - file.tags
       - tags
-      - dg-publish
-      - dg-home
+      - related
     sort:
       - property: draft
         direction: ASC
-      - property: tags
-        direction: DESC
     columnSize:
+      note.draft: 99
       file.tags: 236
+      note.tags: 224
+  - type: table
+    name: test
+    filters:
+      and:
+        - file.folder != "_inspo"
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - draft
+      - file.tags
+      - tags
+      - related
+    sort:
+      - property: dg-home
+        direction: ASC
+      - property: dg-publish
+        direction: ASC
+      - property: tags
+        direction: ASC
+    columnSize:
+      file.tags: 227
+      note.tags: 224

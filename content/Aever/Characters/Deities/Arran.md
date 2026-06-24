@@ -2,10 +2,10 @@
 publish: true
 draft: true
 created: 2026-05-17 23:13
-modified: 2026-06-23T21:12:56.863+08:00
+modified: 2026-06-24T04:43:41.765+08:00
 tags:
-  - mythos
-  - wip
+  - character/npc
+  - mythos/god
 ---
 
 person (God)
